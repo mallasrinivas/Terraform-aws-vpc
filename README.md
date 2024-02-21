@@ -41,3 +41,5 @@ terraform apply
 ```
 
 5. Review the output to obtain the public IP address of the Jenkins EC2 instance.
+![image](https://github.com/mallasrinivas/Terraform-aws-vpc/assets/90713944/a02118d8-da49-4b75-af18-f279c30593a9)
+
